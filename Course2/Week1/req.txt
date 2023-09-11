@@ -1,6 +1,0 @@
-folium
-mplcursors
-numpy
-pandas
-ipywidgets
-matplotlib
